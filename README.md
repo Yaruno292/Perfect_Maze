@@ -8,8 +8,8 @@ Unity C#
 
 # What is it about
 
-I needed to create a perfect maze.
-This is my attempt to create one.
+I needed to create a perfect maze. <br>
+This is my attempt to create one. <br>
 
 It randomly generates a path.
 When its blocked/surrounded by
